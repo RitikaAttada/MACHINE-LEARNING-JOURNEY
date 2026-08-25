@@ -1,8 +1,9 @@
-# Day 02 — Python Functions
+# Day 02 — Python Functions, Booleans & Conditionals
 
-Focused on understanding and creating reusable Python functions.
+Focused on understanding and creating reusable Python functions and working with Boolean logic and conditional statements.
 
 ### Topics Covered
+
 - `help()`
 - Function definition
 - Parameters & arguments
@@ -11,4 +12,9 @@ Focused on understanding and creating reusable Python functions.
 - Default arguments
 - Functions as arguments
 - Higher-order functions
-
+- Booleans
+- Comparison operators
+- Logical operators (`and`, `or`, `not`)
+- Conditionals (`if`, `elif`, `else`)
+- Boolean conversion
+- Truthy & Falsey values
