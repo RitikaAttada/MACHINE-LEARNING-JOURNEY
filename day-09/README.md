@@ -1,4 +1,4 @@
-## Day-08 Summarizing quantitative data
+## Day-09 Summarizing quantitative data
 ### Measuring quantitative data
 * **Measuring centre in quanntitative data**
   * Statistics intro: Mean, Median, and Mode
